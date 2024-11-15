@@ -23,5 +23,3 @@
 <br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshu19-coder&show_icons=true&locale=en" alt="himanshu19-coder" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu19-coder&theme=default" alt="himanshu19-coder" /></p>
